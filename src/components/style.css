@@ -1,0 +1,30 @@
+.products-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px auto;
+}
+
+.search-container {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: 20px auto;
+}
+
+.products-select {
+    height: 23px;
+    margin: 20px auto;
+}
+
+.products-search {
+    width: 300px;
+    margin: 20px auto;
+}
+
+.products-table {
+    width: 70%;
+    border-collapse: collapse;
+    margin: 20px auto;
+}
